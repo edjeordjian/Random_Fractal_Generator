@@ -1,2 +1,9 @@
 # Random_Fractal_Generator
-Basic script for creating circular fractals by sandpiles method on a .ppm file.
+It may take some minutes to finish (or a couple of seconds). 
+
+# How do I run it? 
+You need python 3.
+
+# Preview
+![alt text](https://farm5.staticflickr.com/4870/46092534645_1c418c7c2f_o_d.png)
+![alt text](https://farm8.staticflickr.com/7903/40041783693_79bfda8b68_o_d.png)
