@@ -1,4 +1,4 @@
-# Random_Fractal_Generator
+# Random Fractal Generator
 It may take some minutes to finish (or a couple of seconds). 
 
 # How do I run it? 
