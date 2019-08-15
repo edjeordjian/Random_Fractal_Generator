@@ -5,7 +5,7 @@ It may take some minutes to finish (or a couple of seconds).
 You need python 3: 
 python fractals.py
 
-or just double click on Windows.
+(on Windows: double click).
 
 # Preview
 ![alt text](https://farm5.staticflickr.com/4870/46092534645_1c418c7c2f_o_d.png)
