@@ -108,7 +108,7 @@ def createFractal():
     Creates a fractal by sandpiles method in a .ppm local file.
     '''
     
-    ### PARAMETERS ZONE ###
+    ### DEFAULT PARAMETERS ###
     DEFAULT_SAND = 0
     MAX_SAND = 3
     DEF_CELL_LEN = 10
