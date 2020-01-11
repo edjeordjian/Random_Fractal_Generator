@@ -2,10 +2,8 @@
 It may take some minutes to finish (or a couple of seconds). 
 
 # How do I run it? 
-You need python 3: 
+With python 3: <br/>
 python fractals.py
-
-(on Windows: double click).
 
 # Preview
 ![alt text](media/fractal1.png)
