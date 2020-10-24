@@ -1,5 +1,5 @@
 # Random Fractal Generator
-It may take some minutes to finish (or a couple of seconds). 
+It may take some minutes to finish (or just a couple of seconds). 
 
 # How do I run it? 
 With python 3. 
