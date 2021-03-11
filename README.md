@@ -7,6 +7,7 @@ It may take some minutes to finish (or just a couple of seconds).
 
 # How do I run it? 
 With Python 3.   
+
 Linux:
 ```
 python3 fractals.py
